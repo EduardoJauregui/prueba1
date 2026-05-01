@@ -1,4 +1,4 @@
 # prueba1
-Esto es un cambio
-Esto es otro cambio
+Esto es un cambio // pull
+Esto es otro cambio // commit
 Otro cambio 
